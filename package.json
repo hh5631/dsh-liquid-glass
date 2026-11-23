@@ -1,6 +1,6 @@
 {
   "name": "dsh-liquid-glass",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "DSH Web 的独立液态玻璃主题，内置原有玻璃配置。",
   "repository": { "type": "git", "url": "git+https://github.com/hh5631/dsh-liquid-glass.git" },
   "homepage": "https://github.com/hh5631/dsh-liquid-glass#readme",
